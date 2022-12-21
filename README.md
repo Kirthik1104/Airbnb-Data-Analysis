@@ -29,7 +29,7 @@ predicted popular Airbnb locations along with high rated host furthermore gather
   individual room types, host name, near by location, 300+ days 
   availability, price less than 100 and maximum number of reviews.
   
-<h4>Implementation:</h4>
+<h3>Implementation:</h3>
 
 Created Database considering that documents are stored in JSON format in MongoDB and since our dataset is in csv file, we created our collection and 
 passed our csv file to MongoDB and we got our dataset in JSON format. Mongo db provides its own schema visualization for better understanding. 
