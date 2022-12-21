@@ -29,6 +29,7 @@ Data Analysis Carried Out:
   availability, price less than 100 and maximum number of reviews.
   
 Implementation:
+
 Created Database considering that documents are stored in JSON format in MongoDB and since our dataset is in csv file, we created our collection and 
 passed our csv file to MongoDB and we got our dataset in JSON format. Mongo db provides its own schema visualization for better understanding. 
 By analyzing different filters and understanding graphs we made contemplative query analysis. Furthermore, we used 
