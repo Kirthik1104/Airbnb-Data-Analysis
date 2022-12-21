@@ -1,6 +1,6 @@
 <h1># Airbnb-Data-Analysis<img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 
-Problecm Statement:
+<h2>Problecm Statement:</h2>
 Many travelers now have access to fantastic, simple, and convenient lodging thanks to Airbnb. Similar to that, it has also provided many people the 
 chance to earn extra money by selling their properties as places where people can stay. Today, Airbnb has developed into a unique service that is used by 
 people all over the world. However, there are so many ads with different price ranges accessible, When the primary goal of a 
@@ -11,7 +11,7 @@ problem for a host and also for the traveler. We identified the number of Airbnb
 predicted popular Airbnb locations along with high rated host furthermore gathered locations of different room types with minimum prices and maximum reviews.
 
 
-Data Analysis Carried Out:
+<h3>Data Analysis Carried Out:</h3>
 * Problem Statement 1: Analyzed our dataset and exhibit number 
   of houses at simultaneous location owned by host and 
   furthermore providing total summation of houses that is total 
@@ -28,7 +28,7 @@ Data Analysis Carried Out:
   individual room types, host name, near by location, 300+ days 
   availability, price less than 100 and maximum number of reviews.
   
-Implementation:
+<h4>Implementation:</h4>
 
 Created Database considering that documents are stored in JSON format in MongoDB and since our dataset is in csv file, we created our collection and 
 passed our csv file to MongoDB and we got our dataset in JSON format. Mongo db provides its own schema visualization for better understanding. 
