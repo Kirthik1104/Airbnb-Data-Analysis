@@ -12,6 +12,7 @@ predicted popular Airbnb locations along with high rated host furthermore gather
 
 
 <h3>Data Analysis Carried Out:</h3>
+
 * Problem Statement 1: Analyzed our dataset and exhibit number 
   of houses at simultaneous location owned by host and 
   furthermore providing total summation of houses that is total 
